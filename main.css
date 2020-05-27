@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin: 2% 0;
+}
+article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+section {
+    
+    flex: 0 1 31%;
+    border: dotted 1px;
+    
+}
